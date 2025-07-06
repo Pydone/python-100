@@ -44,4 +44,5 @@ if user_data == "left":
 elif user_data == "right":
     print("fire wall got you!! game over!!")
 else :
-    print("invalid input !!")         
+    print("invalid input !!")
+             
